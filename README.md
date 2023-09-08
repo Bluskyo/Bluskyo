@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, games, fishing and japanese. 😎
 - 🌱 I’m currently learning python and SQL!
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me 
+- 📫 How to reach me: Blusky on discord.
 
 <!---
 Bluskyfishing/Bluskyfishing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
