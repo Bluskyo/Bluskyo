@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bluskyfishing
 - 👀 I’m interested in coding, games, fishing and japanese. 😎
-- 🌱 I’m currently learning python and SQL!
+- 🌱 I’m currently learning C# and JS!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Blusky on discord.
 
