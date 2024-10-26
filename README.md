@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bluskyo
-- 👀 I’m interested in coding, games, fishing and japanese. 😎
+- 👀 I’m interested in coding, japanese, climbing, games, fishing😎
 - 🌱 I’m currently learning Spring Boot, React and JS!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: isak.m.mikalsen@gmail.com
