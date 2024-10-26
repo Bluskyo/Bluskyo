@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bluskyo
 - 👀 I’m interested in coding, games, fishing and japanese. 😎
-- 🌱 I’m currently learning C# and JS!
+- 🌱 I’m currently learning Java and JS!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: isak.m.mikalsen@gmail.com
 
