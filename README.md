@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, japanese, climbing, games, fishing😎
 - 🌱 I’m currently learning Spring Boot, React and JS!
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: isak.m.mikalsen@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/isak-mikalsen/
 
 <!---
 Bluskyo/Bluskyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
